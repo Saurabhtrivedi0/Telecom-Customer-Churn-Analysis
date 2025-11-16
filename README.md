@@ -1,6 +1,6 @@
 ## Executive Summary
 
-We looked at **7,000+ customers** and found that about **26% churn**. Most of the data was clean, and after fixing a few TotalCharges issues, the patterns became clear.
+Analysis of **7,000+ customers** and found that about **26% churn**. Most of the data was clean, and after fixing a few TotalCharges issues, the patterns became clear.
 
 The biggest churn risks are **senior citizens, new customers, and people on month-to-month contracts**. For example, seniors churn at around **42%**, almost double non-seniors. Customers in their first 6 months churn the most around **55%** and month-to-month users make up almost **90%** of all churn.
 
